@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[70],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

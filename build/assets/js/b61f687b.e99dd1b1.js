@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[419],{9722:e=>{e.exports=JSON.parse('{"label":"OfBiz","permalink":"/blog/tags/of-biz","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
