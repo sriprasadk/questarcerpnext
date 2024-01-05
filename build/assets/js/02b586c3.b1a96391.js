@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[737],{3370:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/questarcerp/blog/tags/hola","allTagsPath":"/questarcerp/blog/tags","count":1,"unlisted":false}')}}]);

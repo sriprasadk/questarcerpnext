@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[645],{3658:e=>{e.exports=JSON.parse('{"label":"ERPNext","permalink":"/questarcerp/blog/tags/erp-next","allTagsPath":"/questarcerp/blog/tags","count":1,"unlisted":false}')}}]);

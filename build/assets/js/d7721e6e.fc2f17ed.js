@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[590],{9511:e=>{e.exports=JSON.parse('{"label":"Odoo","permalink":"/questarcerp/blog/tags/odoo","allTagsPath":"/questarcerp/blog/tags","count":1,"unlisted":false}')}}]);

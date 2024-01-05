@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkquestarcerp=self.webpackChunkquestarcerp||[]).push([[49],{6481:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/questarcerp/blog/tags/docusaurus","allTagsPath":"/questarcerp/blog/tags","count":3,"unlisted":false}')}}]);
